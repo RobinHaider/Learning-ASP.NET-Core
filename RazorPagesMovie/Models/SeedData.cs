@@ -26,7 +26,8 @@ namespace RazorPagesMovie.Models
                         Title = "Once Upon a Time in Hollywood",
                         ReleaseDate = DateTime.Parse("2019-2-12"),
                         Genre = "Drama Comedy",
-                        Price = 7.99M
+                        Price = 7.99M,
+                        Rating = "R"
                     },
 
                     new Movie
@@ -34,7 +35,8 @@ namespace RazorPagesMovie.Models
                         Title = "Doctor Sleep ",
                         ReleaseDate = DateTime.Parse("2019-3-13"),
                         Genre = "Horror",
-                        Price = 8.99M
+                        Price = 8.99M,
+                        Rating = "PG-13"
                     },
 
                     new Movie
@@ -42,7 +44,8 @@ namespace RazorPagesMovie.Models
                         Title = "6 Undergrounds",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Action",
-                        Price = 9.99M
+                        Price = 9.99M,
+                        Rating = "R"
                     },
 
                     new Movie
@@ -50,7 +53,8 @@ namespace RazorPagesMovie.Models
                         Title = "Kabir Singh",
                         ReleaseDate = DateTime.Parse("2019-3-23"),
                         Genre = "Romantic Drama",
-                        Price = 8.99M
+                        Price = 8.99M,
+                        Rating = "R"
                     },
 
                     new Movie
@@ -58,7 +62,8 @@ namespace RazorPagesMovie.Models
                         Title = "Frozen 2",
                         ReleaseDate = DateTime.Parse("2019-4-15"),
                         Genre = "Animation",
-                        Price = 3.99M
+                        Price = 3.99M,
+                        Rating = "PG-13"
                     }
                 );
                 context.SaveChanges();
