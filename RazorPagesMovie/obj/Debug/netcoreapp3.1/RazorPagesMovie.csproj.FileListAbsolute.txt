@@ -145,7 +145,6 @@ C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\bin\Debug\net
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
