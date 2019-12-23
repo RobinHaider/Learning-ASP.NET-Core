@@ -462,3 +462,5 @@ C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateButtonPartial.cshtml.g.cs
