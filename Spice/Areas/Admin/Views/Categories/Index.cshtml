@@ -35,8 +35,8 @@
                             @Html.DisplayFor(m => item.Name)
                         </td>
                         <td></td>
-                        <td>
-                            Edit | Details | Delete
+                        <td style="width: 150px">
+                            <partial name="_TableButtonPartial" model="@item.Id"/>
                         </td>
                     </tr>
                 }

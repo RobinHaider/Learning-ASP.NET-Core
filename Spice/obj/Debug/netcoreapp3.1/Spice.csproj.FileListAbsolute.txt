@@ -464,3 +464,11 @@ C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UpdateAndBackToListPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeleteAndBackToListPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
