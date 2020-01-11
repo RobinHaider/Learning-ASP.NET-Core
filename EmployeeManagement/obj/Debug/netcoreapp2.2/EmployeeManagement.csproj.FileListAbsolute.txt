@@ -25,3 +25,5 @@ C:\Users\Lenovo\source\repos\Learning ASP.NET Core\EmployeeManagement\obj\Debug\
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CopyComplete
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Lenovo\source\repos\Learning ASP.NET Core\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
