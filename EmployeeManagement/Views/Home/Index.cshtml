@@ -4,44 +4,29 @@
     ViewBag.Title = "Employee List";
 }
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Email)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Department)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Department)
-            </td>
-            <td>
-               
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="card-deck">
+    @foreach (var employee in Model)
+    {
+        //var photoPath = "~/Images/" + (employee.PhotoPath ?? "img1.jpg");
+
+        <div class="card m-3" style="min-width: 18rem; max-width:30.5%;">
+            <div class="card-header">
+                <h3>@employee.Name</h3>
+            </div>
+
+            <img class="card-img-top imageThumbnail" src="~/images/img1.jpeg"
+                 asp-append-version="true" />
+
+            <div class="card-footer text-center">
+                <a asp-controller="home" asp-action="details"
+                   asp-route-id="@employee.Id"
+                   class="btn btn-primary m-1">View</a>
+                <a asp-action="edit" asp-controller="home"
+                   asp-route-id="@employee.Id"
+                   class="btn btn-primary m-1">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+            </div>
+        </div>
+    }
+</div>
 
