@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfo.cs
