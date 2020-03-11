@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Downloads\\aspdotnet-core-api-openapi-swagger\\02\\demos\\start-end\\Library.API\\Library.API.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\Learning ASP.NET Core\\Documenting an ASP.NET Core API with OpenAPI  Swagger\\Library.API\\Library.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Downloads\\aspdotnet-core-api-openapi-swagger\\02\\demos\\start-end\\Library.API\\Library.API.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Learning ASP.NET Core\\Documenting an ASP.NET Core API with OpenAPI  Swagger\\Library.API\\Library.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\aspdotnet-core-api-openapi-swagger\\02\\demos\\start-end\\Library.API\\Library.API.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Learning ASP.NET Core\\Documenting an ASP.NET Core API with OpenAPI  Swagger\\Library.API\\Library.API.csproj",
         "projectName": "Library.API",
-        "projectPath": "C:\\Users\\Lenovo\\Downloads\\aspdotnet-core-api-openapi-swagger\\02\\demos\\start-end\\Library.API\\Library.API.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Learning ASP.NET Core\\Documenting an ASP.NET Core API with OpenAPI  Swagger\\Library.API\\Library.API.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Downloads\\aspdotnet-core-api-openapi-swagger\\02\\demos\\start-end\\Library.API\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Learning ASP.NET Core\\Documenting an ASP.NET Core API with OpenAPI  Swagger\\Library.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,6 +65,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

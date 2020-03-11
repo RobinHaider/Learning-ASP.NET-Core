@@ -3,3 +3,20 @@ C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\
 C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cs
 C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Downloads\aspdotnet-core-api-openapi-swagger\02\demos\start-end\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\Library.API.deps.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\Library.API.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\Library.API.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\Library.API.dll
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\bin\Debug\netcoreapp2.2\Library.API.pdb
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.dll
+C:\Users\Lenovo\source\repos\Learning ASP.NET Core\Documenting an ASP.NET Core API with OpenAPI  Swagger\Library.API\obj\Debug\netcoreapp2.2\Library.API.pdb
